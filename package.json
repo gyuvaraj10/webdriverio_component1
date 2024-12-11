@@ -1,0 +1,19 @@
+{
+  "name": "webdriverio_component1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ".\\node_modules\\.bin\\wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@wdio/cli": "^9.4.1",
+    "@wdio/local-runner": "^9.4.1",
+    "@wdio/mocha-framework": "^9.2.8"
+  },
+  "dependencies": {
+    "webdriverio": "^9.4.1"
+  }
+}
